@@ -4,7 +4,7 @@
 <h3>Réalisé par : Éloïse Gagné, Skayla Stimphil, Michaël simard et Pénélope Morrisson</h3>
 
 <h2>[Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)</h2>
-<h3>Réalisé par :Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe</h3>
+<h3>Réalisé par : Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe</h3>
 
 <h2>[Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)</h2>
 <h3>Réalisé par : Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel</h3>
