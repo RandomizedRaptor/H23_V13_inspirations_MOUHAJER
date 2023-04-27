@@ -3,7 +3,7 @@
 ## Echomarine
 ###### Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel, 2023
 
-Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin.
+Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin. <br>
 [TIM Montmorency, Mycelium - Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 ### Fonctionnement de l'oeuvre
