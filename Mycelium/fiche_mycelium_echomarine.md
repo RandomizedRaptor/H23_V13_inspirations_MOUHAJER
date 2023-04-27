@@ -44,6 +44,8 @@ L'équipe a utilisé plusieurs logiciels spécialisés pour la création de l'in
 
 Dès qu'on entre dans la pièce, le titre s'efface et une lumière bleue s'allume au sommet du podium de la tablette. Cette dernière propose six espèces sous-marines parmi lesquelles on peut choisir. En sélectionnant l'une d'entre elles, une description expliquant les raisons de l'extinction de cette espèce est affichée sur la tablette, tandis qu'une animation est projetée sur les trois rideaux. J'ai été complètement plongé dans l'expérience grâce à l'atmosphère créée par les lumières, les sons et les magnifiques animations.
 
+[L'oeuvre](https://youtube.com/shorts/IJBUdh2NaFw?feature=share)
+
 ### Mon appréciation
 
 J'ai été particulièrement séduit par l'utilisation de l'espace restreint de la salle pour créer une ambiance immersive, où les visiteurs sont plongés dans l'univers aquatique à travers les magnifiques animations et les sons captivants des animaux marins. De plus, j'ai apprécié la démarche éducative de l'exposition, qui utilise une installation interactive pour sensibiliser les visiteurs à la situation instable des animaux marins en voie d'extinction. C'est une méthode innovante et efficace pour attirer l'attention sur cette problématique.
