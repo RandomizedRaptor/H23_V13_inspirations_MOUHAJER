@@ -56,7 +56,7 @@ Ce projet arrive en dernière position car je pense qu'il offre l'expérience la
 
 <h2>Conclusion</h2>
 
-Pour être en mesure de concevoir des installations interactives, plusieurs cours de la technique d'intégration multimédia sont important. Le premier cours essentiel est la conception d'expériences multimédia. Ce cours permet aux élèves de participer au processus de création en les aidant à développer leur créativité et leur sens de l'organisation. Ils apprennent à concevoir des projets interactifs en analysant les scénarios, en planifiant les besoins en ressources humaines et techniques, et en présentant une conception d'expérience multimédia interactive.
+Pour être en mesure de concevoir des installations interactives, plusieurs cours de techniques d'intégration multimédia sont important. Le premier cours essentiel est la conception d'expériences multimédia. Ce cours permet aux élèves de participer au processus de création en les aidant à développer leur créativité et leur sens de l'organisation. Ils apprennent à concevoir des projets interactifs en analysant les scénarios, en planifiant les besoins en ressources humaines et techniques, et en présentant une conception d'expérience multimédia interactive.
 
 Le cours de traitement audiovisuel est également très important. Il permet à l'élève de concevoir et de réaliser des performances audiovisuelles et des installations interactives. Dans ce cours, les élèves apprennent à utiliser une caméra comme dispositif interactif, à appliquer des effets en temps réel, à manipuler des flux audio et vidéo et à déclencher des vidéos et des échantillons en fonction d'interactions.
 
