@@ -15,19 +15,19 @@ Les visiteurs de l'exposition ont la possibilité de découvrir des animations p
 
 ### Composantes et techniques
 
-check phone notes for apps used
+L'installation interactive offre une expérience immersive unique aux visiteurs de l'exposition, et est conçue de manière complexe pour atteindre cet objectif. Elle se compose de quatre haut-parleurs placés aux coins supérieurs de la pièce, de trois projecteurs qui projettent les animations sur les rideaux, et d'une tablette située au centre sur un podium. Une batterie est attachée derrière le podium pour alimenter la tablette. Pour faciliter l'interaction avec la tablette et avoir une meilleur expérience utilisateur, une Kinect est installée pour détecter la présence humaine et faire disparaître le titre lorsqu'un visiteur entre dans la pièce ainsi que d'activer la lumière en haut du podium. Pour créer une ambiance immersive, les fils sont tous accrochés au plafond de la pièce et facilitent la circulation des visiteurs.
 
 ### Éléments nécessaires
 
-
+L'équipe a utilisé plusieurs logiciels spécialisés pour la création de l'installation. Les animations ont été réalisées avec After Effects, et l'interface web a été conçue avec HTML et CSS. Max/Msp/jitter a été utilisé pour gérer l'interactivité entre la page web, les animations et le détecteur de mouvement. Les logiciels de son utilises étaient Reaper et VCV Rack. Enfin, l'intégration des animations sur les rideaux a été réalisée grâce à l'utilisation de Madmapper. Dans l'ensemble, cette installation artistique offre aux visiteurs une expérience immersive unique.
 
 ### Mon expérience
 
-
+Dès qu'on entre dans la pièce, le titre s'efface et une lumière bleue s'allume au sommet du podium de la tablette. Cette dernière propose six espèces sous-marines parmi lesquelles on peut choisir. En sélectionnant l'une d'entre elles, une description expliquant les raisons de l'extinction de cette espèce est affichée sur la tablette, tandis qu'une animation est projetée sur les trois rideaux. J'ai été complètement plongé dans l'expérience grâce à l'atmosphère créée par les lumières, les sons et les magnifiques animations.
 
 ### Mon appréciation
 
-
+J'ai été particulièrement séduit par l'utilisation de l'espace restreint de la salle pour créer une ambiance immersive, où les visiteurs sont plongés dans l'univers aquatique à travers les magnifiques animations et les sons captivants des animaux marins. De plus, j'ai apprécié la démarche éducative de l'exposition, qui utilise une installation interactive pour sensibiliser les visiteurs à la situation instable des animaux marins en voie d'extinction. C'est une méthode innovante et efficace pour attirer l'attention sur cette problématique.
 
 ### Références
 
