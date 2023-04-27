@@ -7,7 +7,7 @@ DESCRIPTION + INSTALLATION INTERACTIVE (2 para)
 
 ### Fonctionnement de l'oeuvre
 
-
+Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin.
 
 ### Mise en espace
 
