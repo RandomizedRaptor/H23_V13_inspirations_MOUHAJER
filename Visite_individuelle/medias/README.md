@@ -1,1 +1,1 @@
-Photos prises de "Luminotherapie"
+Photos prises durant la visite individuelle
