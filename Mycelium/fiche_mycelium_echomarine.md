@@ -3,20 +3,38 @@
 ## Echomarine
 ###### Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel, 2023
 
+<img src="medias/echomarine/affiche.png">
+
 Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin. <br>
 [TIM Montmorency, Mycelium - Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
+<img src="medias/echomarine/moi_affiche.png">
+<img src="medias/echomarine/titre.png">
+<img src="medias/echomarine/installation.png">
+
 ### Fonctionnement de l'oeuvre
 
-Une tablette interactive est mise à disposition des visiteurs pour découvrir et en apprendre plus sur six espèces animales en voie de disparition. En sélectionnant l'un des animaux proposés, les visiteurs peuvent le voir nager d'un mur à l'autre de la pièce, tout en entendant les sons qu'il émet. La tablette offre également des informations détaillées sur l'animal sélectionné, ainsi que sur les menaces qui le mettent en danger, permettant ainsi une prise de conscience accrue de l'importance de la protection de la biodiversité.
+Echomarine est une installation interactive. Une tablette interactive est mise à disposition des visiteurs pour découvrir et en apprendre plus sur six espèces animales en voie de disparition. En sélectionnant l'un des animaux proposés, les visiteurs peuvent le voir nager d'un mur à l'autre de la pièce, tout en entendant les sons qu'il émet. La tablette offre également des informations détaillées sur l'animal sélectionné, ainsi que sur les menaces qui le mettent en danger, permettant ainsi une prise de conscience accrue de l'importance de la protection de la biodiversité.
+
+<img src="medias/echomarine/tablette.png">
+<img src="medias/echomarine/requin_description.png">
+<img src="medias/echomarine/baleine.png">
 
 ### Mise en espace
 
 Les visiteurs de l'exposition ont la possibilité de découvrir des animations projetées sur trois rideaux disposés contre les murs de l'espace. Cette disposition crée une immersion totale dans les œuvres, permettant aux visiteurs de se sentir plongés dans un univers artistique captivant. Les projections sur les rideaux donnent l'illusion d'un espace tridimensionnel, créant ainsi une expérience immersive.
 
+<img src="medias/echomarine/plantation.png">
+
 ### Composantes et techniques
 
 L'installation interactive offre une expérience immersive unique aux visiteurs de l'exposition, et est conçue de manière complexe pour atteindre cet objectif. Elle se compose de quatre haut-parleurs placés aux coins supérieurs de la pièce, de trois projecteurs qui projettent les animations sur les rideaux, et d'une tablette située au centre sur un podium. Une batterie est attachée derrière le podium pour alimenter la tablette. Pour faciliter l'interaction avec la tablette et avoir une meilleur expérience utilisateur, une Kinect est installée pour détecter la présence humaine et faire disparaître le titre lorsqu'un visiteur entre dans la pièce ainsi que d'activer la lumière en haut du podium. Pour créer une ambiance immersive, les fils sont tous accrochés au plafond de la pièce et facilitent la circulation des visiteurs.
+
+<img src="medias/echomarine/haut-parleur.png">
+<img src="medias/echomarine/lumiere_projecteur.png">
+<img src="medias/echomarine/battery.png">
+<img src="medias/echomarine/kinect.png">
+
 
 ### Éléments nécessaires
 
