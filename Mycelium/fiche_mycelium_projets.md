@@ -21,7 +21,6 @@ Lors de la présentation du prototype d'Edria, l'équipe a installé des capteur
 
 <img src="medias/edria/edria.png">
 <img src="medias/edria/edria_allume.png">
-<img src="medias/edria/installation.png">
 
 J'ai choisi Edria comme deuxième choix. J'adore le concept de science-fiction sur lequel cette installation est basée et je trouve que c'est une idée très créative. J'aime particulièrement l'idée d'une œuvre collaborative qui nécessite la coopération de plusieurs personnes. L'histoire des explorateurs arrivant dans un monde étranger et découvrant un écosystème fascinant est très captivante, et j'apprécie l'interaction que l'équipe a prévue pour que plusieurs personnes soient nécessaires pour progresser. Cependant, j'ai préféré soutenir le message de Luma Sol, qui souligne l'importance de l'interaction humaine avec la nature dans le contexte de l'urgence climatique actuelle. J'adore les situations qui nécessitent du travail d'équipe, et je pense que tout le monde serait satisfait et heureux de voir le résultat final de l'expérience Edria, grâce au monde fascinant que ce projet vise à présenter.
 
