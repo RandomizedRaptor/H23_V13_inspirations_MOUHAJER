@@ -31,14 +31,25 @@ J'ai choisi Edria comme deuxième choix. J'adore le concept de science-fiction s
 
 Echomarine est un projet qui presente des animaux aquatic dans une petite chambre. Grâce à une tablette, on peut selectionner un animal, des renseignements sur l'animal apparait et une animation commence a jouer qui demontre la creature en train de nager sur les murs de la piece ainsi qu'un audio qui accompagne le mouvement de ce meme animal. Au moment de la visite, seulement 2 des 6 animations etaient animées et la tablette n'etait pas independante vu qu'elle affichait l'ecran de l'ordinateur dans la salle.
 
+<img src="medias/echomarine/titre.png">
+<img src="medias/echomarine/tablette.png">
+<img src="medias/echomarine/baleine.png">
+
 Ce projet a capter mon attention et mérite sa place en troisième position. Ce qui le rend vraiment different, c'est qu'il se présente dans une petite pièce à l'intérieur. Bien que les interactions avec l'utilisateur soient simples, le résultat est à la fois divertissant et éducatif grâce aux descriptions des animaux marins présentés. Étant passionné par la faune marine et ses traits uniques, je suis sûr que je vais beaucoup apprécier de voir les dessins de ces animaux prendre vie et d'en apprendre davantage sur eux.
+
+<img src="medias/echomarine/plantation.png">
 
 <h2><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h2>
 <h3>Réalisé par : Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers</h3>
 
 Lors de la visite, j'ai découvert un projet très intéressant et prometteur, qui consistait en des fils de lumière et de capteur de mouvement. Le fonctionnement était vraiment ingénieux : un capteur de mouvement permettait à chaque fil de lumière de s'activer l'un après l'autre pour créer un cycle de lumière. Le mouvement des ampoules était accompagné par des bruit diffus par des hauts-parleurs. L'équipe avait également créé un code QR pour renvoyer vers la page de leur projet, mais il ne fonctionnait malheureusement pas sur les téléphones Apple. Ils ont prévu de régler ce problème pour rendre l'expérience accessible à tous ainsi que d'allonger les fils de lumière pour créer un parcours encore plus impressionnant.
 
+<img src="medias/nexum/installation.png">
+<img src="medias/nexum/objets.png">
+
 Ce projet arrive en dernière position car je pense qu'il offre l'expérience la moins intéressante parmi tous les projets présentés cette année. Bien que je sois curieux de découvrir cette œuvre, je ne pense pas que je resterais longtemps à l'observer, car le contenu semble assez court.
+
+<img src="medias/nexum/plantation.png">
 
 <h2>Conclusion</h2>
 
