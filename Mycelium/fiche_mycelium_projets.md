@@ -36,3 +36,5 @@ Le cours de traitement audiovisuel est également très important. Il permet à 
 
 
 Enfin, le cours de conception sonore est crucial pour créer une ambiance sonore parfaite. Toutes les équipes ont utilisé des sons dans leurs projets et il est important d'avoir des compétences en audio pour créer des effets sonores et de la musique adaptés à chaque installation interactive. Ce cours aide les étudiants à comprendre l'importance du son et de la musique dans la conception de projets multimédias interactifs.
+
+Une composante technologique très intéressant qui a été utilisé dans l'installation d'Echomarine est la Kinect. La Kinect est un capteur de mouvement pour les consoles Xbox de Microsoft. Elle utilise une caméra RVB couleur et un capteur de profondeur qui projette des motifs de lumière infrarouge sur l'environnement. Les mouvements de l'utilisateur sont détectés et transformés en commandes pour les jeux vidéo ou les applications. La Kinect crée un modèle en 3D de l'environnement et suit les mouvements de l'utilisateur en temps réel. Elle peut également reconnaître les gestes, expressions faciales et commandes vocales pour une interaction plus naturelle.
