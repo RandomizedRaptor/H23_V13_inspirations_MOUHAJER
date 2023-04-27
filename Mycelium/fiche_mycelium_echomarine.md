@@ -29,6 +29,8 @@ Dès qu'on entre dans la pièce, le titre s'efface et une lumière bleue s'allum
 
 J'ai été particulièrement séduit par l'utilisation de l'espace restreint de la salle pour créer une ambiance immersive, où les visiteurs sont plongés dans l'univers aquatique à travers les magnifiques animations et les sons captivants des animaux marins. De plus, j'ai apprécié la démarche éducative de l'exposition, qui utilise une installation interactive pour sensibiliser les visiteurs à la situation instable des animaux marins en voie d'extinction. C'est une méthode innovante et efficace pour attirer l'attention sur cette problématique.
 
+À mon avis, l'ajout d'autres éléments interactifs pour permettre une interaction plus poussée avec les animaux marins aurait été une excellente idée. Bien que les animations soient impressionnantes, elles ne suffisent pas à maintenir l'attention des visiteurs pendant une période prolongée. Par exemple, des éléments interactifs supplémentaires tels que des jeux ou des quiz pourraient encourager une participation plus active et prolongée de la part des visiteurs.
+
 ### Références
 
 [ECHOMARINE](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
