@@ -17,7 +17,9 @@ J'ai choisi Edria comme deuxième choix. J'adore le concept de science-fiction s
 <h2><a href="https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html">3 - Echomarine</a></h2>
 <h3>Réalisé par : Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel</h3>
 
-Echomarine est un projet qui presente des animaux aquatic dans une petite chambre. Grâce à une tablette, on peut selectionner un animal, des renseignements sur l'animal apparait et une animation commence a jouer qui demontre la creature en train de nager sur les 4 murs de la piece ainsi qu'un audio qui accompagne le mouvement de ce meme animal. Au moment de la visite, seulement 2 des 6 animations etaient animées et la tablette n'etait pas independante vu qu'elle affichait l'ecran de l'ordinateur dans la salle.
+Echomarine est un projet qui presente des animaux aquatic dans une petite chambre. Grâce à une tablette, on peut selectionner un animal, des renseignements sur l'animal apparait et une animation commence a jouer qui demontre la creature en train de nager sur les murs de la piece ainsi qu'un audio qui accompagne le mouvement de ce meme animal. Au moment de la visite, seulement 2 des 6 animations etaient animées et la tablette n'etait pas independante vu qu'elle affichait l'ecran de l'ordinateur dans la salle.
+
+Ce projet a capter mon attention et mérite sa place en troisième position. Ce qui le rend vraiment different, c'est qu'il se présente dans une petite pièce à l'intérieur. Bien que les interactions avec l'utilisateur soient simples, le résultat est à la fois divertissant et éducatif grâce aux descriptions des animaux marins présentés. Étant passionné par la faune marine et ses traits uniques, je suis sûr que je vais beaucoup apprécier de voir les dessins de ces animaux prendre vie et d'en apprendre davantage sur eux.
 
 <h2><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h2>
 <h3>Réalisé par : Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers</h3>
