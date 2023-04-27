@@ -30,7 +30,7 @@ Les visiteurs de l'exposition ont la possibilité de découvrir des animations p
 
 L'installation interactive offre une expérience immersive unique aux visiteurs de l'exposition, et est conçue de manière complexe pour atteindre cet objectif. Elle se compose de quatre haut-parleurs placés aux coins supérieurs de la pièce, de trois projecteurs qui projettent les animations sur les rideaux, et d'une tablette située au centre sur un podium. Une batterie est attachée derrière le podium pour alimenter la tablette. Pour faciliter l'interaction avec la tablette et avoir une meilleur expérience utilisateur, une Kinect est installée pour détecter la présence humaine et faire disparaître le titre lorsqu'un visiteur entre dans la pièce ainsi que d'activer la lumière en haut du podium. Pour créer une ambiance immersive, les fils sont tous accrochés au plafond de la pièce et facilitent la circulation des visiteurs.
 
-<img src="medias/echomarine/haut-parleur.png">
+<img src="medias/echomarine/haut_parleur.png">
 <img src="medias/echomarine/lumiere_projecteur.png">
 <img src="medias/echomarine/battery.png">
 <img src="medias/echomarine/kinect.png">
