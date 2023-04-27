@@ -26,4 +26,6 @@ Ce projet a capter mon attention et mérite sa place en troisième position. Ce 
 
 Lors de la visite, j'ai découvert un projet très intéressant et prometteur, qui consistait en des fils de lumière et de capteur de mouvement. Le fonctionnement était vraiment ingénieux : un capteur de mouvement permettait à chaque fil de lumière de s'activer l'un après l'autre pour créer un cycle de lumière. Le mouvement des ampoules était accompagné par des bruit diffus par des hauts-parleurs. L'équipe avait également créé un code QR pour renvoyer vers la page de leur projet, mais il ne fonctionnait malheureusement pas sur les téléphones Apple. Ils ont prévu de régler ce problème pour rendre l'expérience accessible à tous ainsi que d'allonger les fils de lumière pour créer un parcours encore plus impressionnant.
 
+Ce projet arrive en dernière position car je pense qu'il offre l'expérience la moins intéressante parmi tous les projets présentés cette année. Bien que je sois curieux de découvrir cette œuvre, je ne pense pas que je resterais longtemps à l'observer, car le contenu semble assez court.
+
 <h2>Conclusion</h2>
