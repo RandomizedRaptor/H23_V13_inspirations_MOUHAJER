@@ -11,7 +11,7 @@ Une tablette interactive est mise à disposition des visiteurs pour découvrir e
 
 ### Mise en espace
 
-
+Les visiteurs de l'exposition ont la possibilité de découvrir des animations projetées sur trois rideaux disposés contre les murs de l'espace. Cette disposition crée une immersion totale dans les œuvres, permettant aux visiteurs de se sentir plongés dans un univers artistique captivant. Les projections sur les rideaux donnent l'illusion d'un espace tridimensionnel, créant ainsi une expérience immersive.
 
 ### Composantes et techniques
 
