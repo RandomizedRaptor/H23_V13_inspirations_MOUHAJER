@@ -1,7 +1,7 @@
-# MYCELIUM - ECHOMARINE
-###### Collège Montmorency, exposition temporaire interieure, visité le 23 mars 2023
-## Echomarine
-###### Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel, 2023
+# LUMINOTHERAPIE - EFFET DOMINO
+###### Quartier des Spectacles, exposition temporaire exterieure, visité le 4 mars
+## Effet Domino
+###### Firme: Ingrid Ingrid, 2018
 
 <img src="medias/echomarine/affiche.png">
 
