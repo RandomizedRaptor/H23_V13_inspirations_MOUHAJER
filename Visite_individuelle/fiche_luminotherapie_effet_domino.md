@@ -15,8 +15,14 @@
 - Fabrication Solufab, Rotoplast et Nordesco
 - Production : Partenariat du Quartier des spectacles
 
-Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin. <br>
-[TIM Montmorency, Mycelium - Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+L'installation interactive "Effet Domino" est constituée de plusieurs enchainements de dominos qui permet aux visiteurs de l'exposition de collaborer pour les faire tomber. Chaque station de domino offre un tracé, des couleurs et des motifs musicaux différents, faisant de chaque station un instrument de musique unique qui fait partie d'un grand orchestre comprenant des voix, des percussions, des marimbas, des balafons et des flûtes.
+- 120 dominos réunis en plusieurs modules
+- Taille d’un domino : 390mm x 775mm x 80mm
+- Poids d’un domino : 7 lbs
+- Matériau : en plastique. Ils sont conçus pour être le plus léger possible, en considérant des critères de durabilité, afin que la maniabilité soit optimale. Les dominos ont un pivot qui leur permet de pouvoir tomber et aussi d’être maintenus debout.
+- Hauteur : 5 pieds de haut, des pattes jusqu’au haut du domino.
+
+[Effet Domino - Ingrid Ingrid](http://ingrid-ingrid.com/fr_effetdomino)
 
 <img src="medias/echomarine/moi_affiche.png">
 <img src="medias/echomarine/titre.png">
@@ -24,7 +30,7 @@ Echomarine est une expérience immersive qui utilise un dispositif interactif po
 
 ### Fonctionnement de l'oeuvre
 
-Echomarine est une installation interactive. Une tablette interactive est mise à disposition des visiteurs pour découvrir et en apprendre plus sur six espèces animales en voie de disparition. En sélectionnant l'un des animaux proposés, les visiteurs peuvent le voir nager d'un mur à l'autre de la pièce, tout en entendant les sons qu'il émet. La tablette offre également des informations détaillées sur l'animal sélectionné, ainsi que sur les menaces qui le mettent en danger, permettant ainsi une prise de conscience accrue de l'importance de la protection de la biodiversité.
+
 
 <img src="medias/echomarine/tablette.png">
 <img src="medias/echomarine/requin_description.png">
