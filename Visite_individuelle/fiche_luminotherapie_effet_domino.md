@@ -69,7 +69,7 @@ Dès qu'on entre dans la pièce, le titre s'efface et une lumière bleue s'allum
 
 ### Références
 
-[EFFET DOMINO PAR INGRID INGRID](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/75/effet-domino-par-ingrid-ingrid/#)
-[9E ÉDITION DE LUMINOTHÉRAPIE](https://www.quartierdesspectacles.com/fr/medias/luminotherapie-effet-domino)
-[EFFET DOMINO : DE L’IDÉE À LA CRÉATION](https://www.quartierdesspectacles.com/fr/blogue/771/effet-domino-de-lidee-a-la-creation)
+[EFFET DOMINO PAR INGRID INGRID](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/75/effet-domino-par-ingrid-ingrid/#)<br>
+[9E ÉDITION DE LUMINOTHÉRAPIE](https://www.quartierdesspectacles.com/fr/medias/luminotherapie-effet-domino)<br>
+[EFFET DOMINO : DE L’IDÉE À LA CRÉATION](https://www.quartierdesspectacles.com/fr/blogue/771/effet-domino-de-lidee-a-la-creation)<br>
 [LUMINOTHÉRAPIE DÉVOILE LE PARCOURS DE SA 13E ÉDITION](https://www.quartierdesspectacles.com/fr/medias/luminotherapie-devoile-le-parcours-de-sa-13e-edition)
