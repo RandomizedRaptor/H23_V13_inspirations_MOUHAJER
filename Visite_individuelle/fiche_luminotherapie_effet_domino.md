@@ -5,6 +5,16 @@
 
 <img src="medias/echomarine/affiche.png">
 
+- Direction de création : Geneviève Levasseur
+- Conception interactive : Katherine Melançon
+- Conception architecture : Enrique Enriquez
+- Conception lumière : Lightfactor Inc.
+- Conception sonore : Myriam Bleau
+- Conception technologique et électronique : Productions Version 10
+- Design industriel : DIX au carré
+- Fabrication Solufab, Rotoplast et Nordesco
+- Production : Partenariat du Quartier des spectacles
+
 Echomarine est une expérience immersive qui utilise un dispositif interactif pour nous plonger dans la beauté des fonds marins, tout en mettant en évidence les enjeux environnementaux qui les menacent. Cette expérience interactive permet d'observer des animaux et des plantes marines, avec pour objectif à la fois de susciter la contemplation et de sensibiliser à la protection de l'environnement marin. <br>
 [TIM Montmorency, Mycelium - Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
