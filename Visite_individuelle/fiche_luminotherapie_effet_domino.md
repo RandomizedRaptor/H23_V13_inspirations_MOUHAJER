@@ -21,7 +21,7 @@ L'installation interactive "Effet Domino" est constituée de plusieurs enchainem
 - Matériau : en plastique. Ils sont conçus pour être le plus léger possible, en considérant des critères de durabilité, afin que la maniabilité soit optimale. Les dominos ont un pivot qui leur permet de pouvoir tomber et aussi d’être maintenus debout.
 - Hauteur : 5 pieds de haut, des pattes jusqu’au haut du domino.
 
-[Effet Domino - Ingrid Ingrid](http://ingrid-ingrid.com/fr_effetdomino)
+[Effet Domino 9e - Ingrid Ingrid](http://ingrid-ingrid.com/fr_effetdomino)
 
 <img src="medias/echomarine/moi_affiche.png">
 <img src="medias/echomarine/titre.png">
@@ -63,9 +63,9 @@ Quand on suit le parcours de Luminotherapie et qu'on arrive à l'Effet Domino, o
 
 ### Mon experience
 
-Mon experience personelle etait vraiment décevante, je m'attendais que le projet allait etre vraiment simple mais cela n'etait pas le problem. Je suis parti experiencer la 13e edition de Luminotherapie l'avant dernier jour de l'exposition. Vu que c'etais un samedi, il y avait beaucoup de monde qui partait voir les differentes exposition mais quand je suis arrivee a l'Effet Domino, il y avait vraiment peu de monde. L'exposition elle meme ne fonctionnait que a motier. Les lumieres et bruits etait desynchronises et ils activaient a des moments complemetement au hazard (vous pouvez voir dans la video un exemple du fonctionnement de l'exposition, les dominos allument tous seul et aucun bruit est produit). En plus que les bruits n'activait pas ni avec le mouvement des dominos et ni avec les lumieres, l'audio lui-meme etait vraiment bas et on ne pouvait presque rien entendre sans rester colle aux haut-parleurs.
+Ma propre expérience a été décevante. J'avais imaginé que le projet serait simple, ce qui ne m'aurait pas dérangé, mais il y avait un gros problem. J'ai visité la 13e édition de Luminotherapie l'avant dernier jour de l'exposition, un samedi où il y avait beaucoup de monde pour voir les différentes installations. Cependant, il y avait très peu de monde à l'Effet Domino. L'exposition elle-même ne fonctionnait qu'à moitié. Les lumières et les bruits étaient désynchronisés et se déclenchaient complètement au hasard. Dans la vidéo, vous pouvez voir un exemple de l'exposition où les dominos s'allument tous seuls sans qu'aucun bruit ne soit produit. De plus, les bruits n'étaient pas synchronisés avec les mouvements des dominos ni avec les lumières. L'audio lui-même était vraiment faible, il était presque impossible d'entendre sans être collé aux haut-parleurs.
 
-Le concept de cette installation interactive etait vraiment interessant. Je me suis dis que si je faisais plus de recherche sur le produit final, je pourrais trouver quelque chose qui m'aurait plu autre que le concept lui meme, mais j'ai fais une triste decouverte.
+Le concept de cette installation interactive était vraiment intéressant. J'ai pensé que si je faisais des recherches sur le produit final, je pourrais trouver quelque chose qui m'aurait plu, mais j'ai fini par découvrir que l'Effet Domino de cette année est une nouvelle version qui contient beaucoup moins d'aspects que celle de la 9e édition de Luminotherapie. Par exemple, il y avait un projecteur qui faisait des animations basées sur les mouvements des dominos sur l'UQAM qui a été omis dans la 13e édition, et il y avait seulement 60 dominos au lieu des 120 présents dans la version précédente. De plus, toutes les informations sur la nouvelle version de l'Effet Domino ne sont pas publiées en ligne, le seul article qui pourrait contenir des informations a même été supprimé du site du Quartier des Spectacles, mais le lien vers l'article est toujours présent sur le site.
 
 [L'oeuvre](https://youtube.com/shorts/IJBUdh2NaFw?feature=share)
 
