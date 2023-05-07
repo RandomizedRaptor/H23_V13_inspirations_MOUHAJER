@@ -1,4 +1,4 @@
-# LUMINOTHERAPIE - EFFET DOMINO
+# LUMINOTHERAPIE 13E ÉDITION - EFFET DOMINO
 ###### Quartier des Spectacles, exposition temporaire exterieure, visité le 4 mars
 ## Effet Domino
 ###### Firme: Ingrid Ingrid, 2018
@@ -30,7 +30,7 @@ L'installation interactive "Effet Domino" est constituée de plusieurs enchainem
 
 ### Fonctionnement de l'oeuvre
 
-
+Voici quelques images de la première fois où "Effet Domino" a été exposé :
 
 <img src="medias/echomarine/tablette.png">
 <img src="medias/echomarine/requin_description.png">
