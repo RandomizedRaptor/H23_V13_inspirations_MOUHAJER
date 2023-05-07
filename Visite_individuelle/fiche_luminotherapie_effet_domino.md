@@ -57,15 +57,15 @@ Les visiteurs de l'exposition sont offerts un espace ouvert à l'extérieur où 
 
 Comme l'exposition se déroule en extérieur, les responsables de luminothérapie n'ont pas effectué d'aménagements particuliers pour Ingrid Ingrid. Les dominos ont déjà été disposés avec les supports en tête, car ils contiennent les haut-parleurs qui produisent les sons pour chaque domino.
 
-### Mon expérience
+### L'expérience attendu
 
-Dès qu'on entre dans la pièce, le titre s'efface et une lumière bleue s'allume au sommet du podium de la tablette. Cette dernière propose six espèces sous-marines parmi lesquelles on peut choisir. En sélectionnant l'une d'entre elles, une description expliquant les raisons de l'extinction de cette espèce est affichée sur la tablette, tandis qu'une animation est projetée sur les trois rideaux. J'ai été complètement plongé dans l'expérience grâce à l'atmosphère créée par les lumières, les sons et les magnifiques animations.
+Quand on suit le parcours de Luminotherapie et qu'on arrive à l'Effet Domino, on peut voir deux rangées de dominos qui nous sont offertes. Chaque domino émet son propre bruit lorsqu'il est basculé, permettant ainsi au visiteur de l'exposition de soit faire balancer un domino des deux côtés pour créer des bruits répétés ou faire tomber plusieurs dominos successivement pour produire une petite musique. De belles lumières s'allument à chaque mouvement d'un domino. Cette expérience est là pour nous rappeler nos beaux souvenirs et la satisfaction de faire tomber des dominos les uns à la suite des autres, mais d'une manière qui encourage la coopération grâce à la simplicité et l'accessibilité des dominos.
+
+### Mon experience
+
+
 
 [L'oeuvre](https://youtube.com/shorts/IJBUdh2NaFw?feature=share)
-
-### Mon appréciation
-
-
 
 ### Références
 
