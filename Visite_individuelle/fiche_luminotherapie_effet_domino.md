@@ -65,7 +65,7 @@ Quand on suit le parcours de Luminotherapie et qu'on arrive à l'Effet Domino, o
 
 Mon experience personelle etait vraiment décevante, je m'attendais que le projet allait etre vraiment simple mais cela n'etait pas le problem. Je suis parti experiencer la 13e edition de Luminotherapie l'avant dernier jour de l'exposition. Vu que c'etais un samedi, il y avait beaucoup de monde qui partait voir les differentes exposition mais quand je suis arrivee a l'Effet Domino, il y avait vraiment peu de monde. L'exposition elle meme ne fonctionnait que a motier. Les lumieres et bruits etait desynchronises et ils activaient a des moments complemetement au hazard (vous pouvez voir dans la video un exemple du fonctionnement de l'exposition, les dominos allument tous seul et aucun bruit est produit). En plus que les bruits n'activait pas ni avec le mouvement des dominos et ni avec les lumieres, l'audio lui-meme etait vraiment bas et on ne pouvait presque rien entendre sans rester colle aux haut-parleurs.
 
-Le concept de cette installation interactive etait vraiment interessant, je me suis dis que si je faisais plus de recherche sur le produit final, je pourrais trouver quelque chose qui m'aurait plu autre que le concept lui meme
+Le concept de cette installation interactive etait vraiment interessant. Je me suis dis que si je faisais plus de recherche sur le produit final, je pourrais trouver quelque chose qui m'aurait plu autre que le concept lui meme, mais j'ai fais une triste decouverte.
 
 [L'oeuvre](https://youtube.com/shorts/IJBUdh2NaFw?feature=share)
 
