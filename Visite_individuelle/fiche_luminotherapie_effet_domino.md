@@ -47,10 +47,8 @@ Les visiteurs de l'exposition sont offerts un espace ouvert à l'extérieur où 
 - Caches-fils
 - Dominos en plastique
 
-<img src="medias/echomarine/haut_parleur.png">
-<img src="medias/echomarine/lumiere_projecteur.png">
-<img src="medias/echomarine/battery.png">
-<img src="medias/echomarine/kinect.png">
+<img src="medias/luminotherapie/effet_domino/haut_parleur.png">
+<img src="medias/luminotherapie/effet_domino/domino_allume.png">
 
 
 ### Éléments nécessaires
@@ -65,9 +63,11 @@ Quand on suit le parcours de Luminotherapie et qu'on arrive à l'Effet Domino, o
 
 Ma propre expérience a été décevante. J'avais imaginé que le projet serait simple, ce qui ne m'aurait pas dérangé, mais il y avait un gros problem. J'ai visité la 13e édition de Luminotherapie l'avant dernier jour de l'exposition, un samedi où il y avait beaucoup de monde pour voir les différentes installations. Cependant, il y avait très peu de monde à l'Effet Domino. L'exposition elle-même ne fonctionnait qu'à moitié. Les lumières et les bruits étaient désynchronisés et se déclenchaient complètement au hasard. Dans la vidéo, vous pouvez voir un exemple de l'exposition où les dominos s'allument tous seuls sans qu'aucun bruit ne soit produit. De plus, les bruits n'étaient pas synchronisés avec les mouvements des dominos ni avec les lumières. L'audio lui-même était vraiment faible, il était presque impossible d'entendre sans être collé aux haut-parleurs.
 
+[Fonctionnement de l'oeuvre](https://youtu.be/7Atbig08fDM)
+
 Le concept de cette installation interactive était vraiment intéressant. J'ai pensé que si je faisais des recherches sur le produit final, je pourrais trouver quelque chose qui m'aurait plu, mais j'ai fini par découvrir que l'Effet Domino de cette année est une nouvelle version qui contient beaucoup moins d'aspects que celle de la 9e édition de Luminotherapie. Par exemple, il y avait un projecteur qui faisait des animations basées sur les mouvements des dominos sur l'UQAM qui a été omis dans la 13e édition, et il y avait seulement 60 dominos au lieu des 120 présents dans la version précédente. De plus, toutes les informations sur la nouvelle version de l'Effet Domino ne sont pas publiées en ligne, le seul article qui pourrait contenir des informations a même été supprimé du site du Quartier des Spectacles, mais le lien vers l'article est toujours présent sur le site.
 
-[L'oeuvre](https://youtube.com/shorts/IJBUdh2NaFw?feature=share)
+<img src="medias/luminotherapie/effet_domino/page_introuvable.png">
 
 ### Références
 
