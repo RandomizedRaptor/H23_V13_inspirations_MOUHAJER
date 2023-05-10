@@ -39,7 +39,7 @@ Voici quelques images de la première fois où "Effet Domino" a été exposé :
 
 Les visiteurs de l'exposition sont offerts un espace ouvert à l'extérieur où tous les dominos sont assemblés en plusieurs rangées.
 
-<img src="medias/echomarine/plantation.png">
+<img src="medias/luminotherapie/carte.jpg">
 
 ### Composantes et techniques
 
