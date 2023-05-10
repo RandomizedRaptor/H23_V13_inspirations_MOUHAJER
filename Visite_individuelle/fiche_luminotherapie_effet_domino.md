@@ -3,6 +3,7 @@
 ## Effet Domino
 ###### Firme: Ingrid Ingrid, 2018
 
+<img src="medias/luminotherapie/affiche_luminotherapie.png">
 <img src="medias/echomarine/affiche.png">
 
 Conception : Ingrid Ingrid
