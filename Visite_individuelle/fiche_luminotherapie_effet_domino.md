@@ -31,9 +31,9 @@ L'installation interactive "Effet Domino" est constituée de plusieurs enchainem
 
 Voici quelques images de la première fois où "Effet Domino" a été exposé :
 
-<img src="medias/echomarine/tablette.png">
-<img src="medias/echomarine/requin_description.png">
-<img src="medias/echomarine/baleine.png">
+<img src="medias/luminotherapie/effet_domino/dominos.png">
+<img src="medias/luminotherapie/effet_domino/dominoswave.png">
+<img src="medias/luminotherapie/effet_domino/UQAM.png">
 
 ### Mise en espace
 
