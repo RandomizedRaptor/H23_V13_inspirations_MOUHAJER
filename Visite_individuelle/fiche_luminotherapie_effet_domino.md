@@ -4,7 +4,7 @@
 ###### Firme: Ingrid Ingrid, 2018
 
 <img src="medias/luminotherapie/affiche_luminotherapie.png">
-<img src="medias/echomarine/affiche.png">
+<img src="medias/luminotherapie/effet_domino/affiche_effet_domino.png">
 
 Conception : Ingrid Ingrid
 Direction de création : Geneviève Levasseur
