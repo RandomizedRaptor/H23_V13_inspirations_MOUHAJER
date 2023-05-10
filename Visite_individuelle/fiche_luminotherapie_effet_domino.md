@@ -53,7 +53,7 @@ Les visiteurs de l'exposition sont offerts un espace ouvert à l'extérieur où 
 
 ### Éléments nécessaires
 
-Comme l'exposition se déroule en extérieur, les responsables de luminothérapie n'ont pas effectué d'aménagements particuliers pour Ingrid Ingrid. Les dominos ont déjà été disposés avec les supports en tête, car ils contiennent les haut-parleurs qui produisent les sons pour chaque domino.
+Comme l'exposition se déroule à l'extérieur, les responsables de luminothérapie n'ont pas effectué d'aménagements particuliers pour Ingrid Ingrid. Les dominos ont déjà été disposés avec les supports en tête, car ils contiennent les haut-parleurs qui produisent les sons pour chaque domino.
 
 ### L'expérience attendu
 
