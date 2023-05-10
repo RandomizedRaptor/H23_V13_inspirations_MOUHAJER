@@ -4,7 +4,6 @@
 ###### Firme: Ingrid Ingrid, 2018
 
 <img src="medias/luminotherapie/affiche_luminotherapie.png">
-<img src="medias/luminotherapie/effet_domino/affiche_effet_domino.png">
 
 Conception : Ingrid Ingrid
 Direction de création : Geneviève Levasseur
@@ -24,9 +23,9 @@ L'installation interactive "Effet Domino" est constituée de plusieurs enchainem
 
 [Effet Domino 9e - Ingrid Ingrid](http://ingrid-ingrid.com/fr_effetdomino)
 
-<img src="medias/echomarine/moi_affiche.png">
-<img src="medias/echomarine/titre.png">
-<img src="medias/echomarine/installation.png">
+<img src="medias/luminotherapie/effet_domino/affiche_effet_domino.png">
+<img src="medias/luminotherapie/effet_domino/vue_cote.png">
+<img src="medias/luminotherapie/effet_domino/vue_face.png">
 
 ### Fonctionnement de l'oeuvre
 
