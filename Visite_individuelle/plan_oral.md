@@ -9,7 +9,6 @@ L'œuvre "Effet Domino" est une installation interactive constituée de plusieur
 
 
 
-
 ## Conclusion
 
-Malgré son concept intéressant, le résultat final de l'Effet Domino de la 13e édition de Luminothérapie était vraiment décevant. L'installation ne fonctionnait qu'à moitié, les lumières et les bruits étaient désynchronisés et le volume était faible. De plus, cette version de l'œuvre est une nouvelle version qui contient beaucoup moins d'aspects que celle de la 9e édition de Luminothérapie. L'idée de créer un grand orchestre à partir de dominos interactifs est innovante et promet de belles expériences pour les visiteurs si les problèmes techniques sont résolus.
+Malgré son concept intéressant, le résultat final de l'Effet Domino de la 13e édition de Luminothérapie était vraiment décevant. L'installation ne fonctionnait qu'à moitié, les lumières et les bruits étaient désynchronisés et le volume était faible. De plus, cette version de l'œuvre est une nouvelle version qui contient beaucoup moins d'aspects que celle de la 9e édition de Luminothérapie. L'idée de créer un grand orchestre à partir de dominos interactifs est innovante et pourrait créer de belles expériences pour les visiteurs si les problèmes techniques sont résolus.
