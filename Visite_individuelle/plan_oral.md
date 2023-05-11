@@ -7,7 +7,10 @@ L'œuvre "Effet Domino" est une installation interactive constituée de plusieur
 
 ## Développement
 
+La fiche "luminotherapie_effet_domino.md".
 
+
+Effet Domino est très similaire en concept avec l'installation interactive Lumasol qui a été présentée à l'école Montmorency. Les deux installations incluent une interaction avec un objet qui crée de la musique ainsi que de la lumière.
 
 ## Conclusion
 
